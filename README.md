@@ -1,5 +1,10 @@
 # Project Documentation
 
+## Project Overview
+
+This project utilizes deep learning pre-trained models and transformers for age and gender prediction. By uploading an image, the application will provide predictions for both age and gender based on the content of the image.
+
+
 ## FaceXFormer Model 
 
 The FaceXFormer model can be downloaded either manually from [Hugging Face](https://huggingface.co/kartiknarayan/facexformer) or programmatically using the following Python code:
